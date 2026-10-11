@@ -1,0 +1,12 @@
+TITULO: Derechos de las víctimas del conflicto armado (Ley 1448 de 2011)
+FUENTE: Congreso de Colombia. Ley 1448 de 2011, por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/ley_1448_2011.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+Se consideran víctimas las personas que individual o colectivamente hayan sufrido un daño por hechos ocurridos a partir del 1 de enero de 1985, como consecuencia de infracciones al Derecho Internacional Humanitario o de violaciones graves a las normas internacionales de derechos humanos, ocurridas con ocasión del conflicto armado interno. También son víctimas el cónyuge, compañero permanente y familiares en primer grado de quien fue asesinado o desaparecido.
+
+Para acceder a las medidas de la ley, la víctima debe rendir una declaración ante el Ministerio Público, es decir, ante la Personería municipal, la Defensoría del Pueblo o la Procuraduría. Con esa declaración la Unidad para las Víctimas decide si la persona se incluye en el Registro Único de Víctimas (RUV). Si la inclusión es negada, la persona puede interponer recurso de reposición y apelación.
+
+La reparación integral comprende cinco medidas: restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición. La restitución de tierras busca devolver jurídica y materialmente los predios a quienes fueron despojados u obligados a abandonarlos, y se tramita ante la Unidad de Restitución de Tierras y los jueces especializados.
+
+Las personas desplazadas tienen derecho a atención humanitaria de emergencia, que cubre alimentación, alojamiento temporal y atención médica, así como a apoyo para el retorno o la reubicación en condiciones de seguridad y dignidad. Las comunidades indígenas y afrodescendientes cuentan con normas especiales de enfoque diferencial.

@@ -1,0 +1,10 @@
+TITULO: El derecho de petición (Ley 1755 de 2015)
+FUENTE: Congreso de Colombia. Ley 1755 de 2015, por medio de la cual se regula el Derecho Fundamental de Petición.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+Toda persona tiene derecho a presentar peticiones respetuosas a las autoridades y, en algunos casos, a particulares, por motivos de interés general o particular, y a obtener una respuesta de fondo, clara y oportuna. No se necesita abogado y la petición puede presentarse por escrito, de forma verbal o por medios electrónicos.
+
+Por regla general, la petición debe resolverse dentro de los quince días hábiles siguientes a su recepción. Las peticiones de documentos o de información deben resolverse dentro de los diez días hábiles siguientes, y las consultas a las autoridades sobre materias a su cargo dentro de los treinta días hábiles siguientes.
+
+Si la autoridad no puede responder en el plazo, debe informarlo antes de que se venza, explicar los motivos y señalar cuándo responderá. La falta de respuesta oportuna vulnera el derecho fundamental de petición y puede reclamarse mediante acción de tutela.

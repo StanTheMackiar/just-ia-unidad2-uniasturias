@@ -1,0 +1,10 @@
+TITULO: Cuota alimentaria para niños, niñas y adolescentes (Ley 1098 de 2006)
+FUENTE: Congreso de Colombia. Ley 1098 de 2006, Código de la Infancia y la Adolescencia; Ley 599 de 2000, Código Penal, artículo 233.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+Los niños, niñas y adolescentes tienen derecho a los alimentos, que comprenden todo lo indispensable para su sustento, habitación, vestido, asistencia médica, recreación, educación o instrucción y, en general, todo lo necesario para su desarrollo integral. La obligación de dar alimentos corresponde a ambos padres.
+
+Para fijar una cuota alimentaria, la persona que tiene el cuidado del menor puede solicitar una audiencia de conciliación ante la Comisaría de Familia, el defensor de familia del ICBF, un centro de conciliación o un consultorio jurídico. Si no hay acuerdo, el funcionario puede fijar una cuota provisional y el caso puede llevarse ante el juez de familia.
+
+La cuota puede revisarse para aumentarla o disminuirla cuando cambien las condiciones económicas del obligado o las necesidades del menor. El incumplimiento de la obligación alimentaria sin justa causa constituye el delito de inasistencia alimentaria, previsto en el artículo 233 del Código Penal, que puede denunciarse ante la Fiscalía.

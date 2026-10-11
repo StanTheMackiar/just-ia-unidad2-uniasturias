@@ -1,0 +1,12 @@
+TITULO: La acción de tutela (Constitución Política, artículo 86, y Decreto 2591 de 1991)
+FUENTE: Constitución Política de Colombia, artículo 86; Presidencia de la República. Decreto 2591 de 1991.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/decreto_2591_1991.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+La acción de tutela es un mecanismo para pedir a un juez la protección inmediata de los derechos fundamentales cuando estos sean vulnerados o amenazados por la acción o la omisión de cualquier autoridad pública o, en ciertos casos, de particulares. Ejemplos frecuentes son la negación de servicios de salud por parte de una EPS, la falta de respuesta a un derecho de petición o la vulneración del mínimo vital de una persona mayor.
+
+Cualquier persona puede presentar una tutela sin necesidad de abogado, por escrito o de forma verbal, ante cualquier juez del lugar donde ocurre la vulneración. En la solicitud se debe narrar lo que ocurrió, indicar qué derecho se considera vulnerado, contra quién se dirige y qué se pide.
+
+El juez debe decidir la tutela en un plazo máximo de diez días. Si alguna de las partes no está de acuerdo con el fallo, puede impugnarlo dentro de los tres días siguientes a la notificación.
+
+La tutela es subsidiaria: procede cuando la persona no tiene otro medio de defensa judicial, o cuando teniéndolo se usa como mecanismo transitorio para evitar un perjuicio irremediable. Si la orden del juez no se cumple, el accionante puede iniciar un incidente de desacato, que puede terminar en arresto y multa para el responsable.

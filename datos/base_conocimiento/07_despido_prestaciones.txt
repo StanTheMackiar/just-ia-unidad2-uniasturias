@@ -1,0 +1,10 @@
+TITULO: Despido sin justa causa y prestaciones sociales (Código Sustantivo del Trabajo)
+FUENTE: Código Sustantivo del Trabajo, artículos 64, 65, 186, 249 y 306.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+Cuando el empleador termina el contrato de trabajo sin justa causa debe pagar una indemnización. En el contrato a término indefinido, para trabajadores que devengan menos de diez salarios mínimos, la indemnización equivale a treinta días de salario por el primer año de servicio y veinte días adicionales por cada año siguiente, de forma proporcional. En el contrato a término fijo, la indemnización corresponde a los salarios del tiempo que faltaba para terminar el contrato.
+
+Al terminar el contrato, por cualquier causa, el trabajador tiene derecho a la liquidación de sus prestaciones sociales: cesantías equivalentes a un mes de salario por cada año de servicio, intereses sobre cesantías del doce por ciento anual, prima de servicios de treinta días de salario por año pagada en dos cuotas, y vacaciones de quince días hábiles por cada año trabajado que no hayan sido disfrutadas.
+
+Si el empleador no paga los salarios y prestaciones al terminar el contrato, puede ser condenado a una indemnización moratoria equivalente a un día de salario por cada día de retardo, salvo que demuestre buena fe. El trabajador puede acudir al inspector de trabajo para intentar una conciliación o presentar una demanda ante el juez laboral. Estas reclamaciones prescriben, por regla general, en tres años.

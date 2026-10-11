@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Entornos virtuales y variables de entorno
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales de Office (ej. ~$documento.docx)
+~$*
+
+# Modelos entrenados y checkpoints (pesan cientos de MB)
+modelos/
+# Matrices de embeddings (se regeneran con el script)
+*.npy

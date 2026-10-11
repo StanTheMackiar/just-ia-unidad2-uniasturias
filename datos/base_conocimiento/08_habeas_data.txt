@@ -1,0 +1,10 @@
+TITULO: Protección de datos personales y reportes en centrales de riesgo (Leyes 1581 de 2012 y 1266 de 2008)
+FUENTE: Congreso de Colombia. Ley Estatutaria 1581 de 2012 y Ley Estatutaria 1266 de 2008.
+URL: http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
+NOTA: Resumen elaborado con fines académicos para el prototipo JustIA. No reemplaza la asesoría de un abogado.
+
+Toda persona tiene derecho a conocer, actualizar y rectificar la información que sobre ella se haya recogido en bases de datos. Como titular de los datos, puede solicitar prueba de la autorización que otorgó, ser informada sobre el uso que se da a sus datos, revocar la autorización o pedir la supresión cuando no se respeten sus derechos, y acceder gratuitamente a sus datos personales.
+
+Los datos sensibles, como los relacionados con la salud, la orientación sexual, el origen étnico o los datos biométricos, tienen una protección reforzada y en general su tratamiento requiere autorización explícita del titular.
+
+En el caso de los reportes negativos en centrales de riesgo, la entidad debe enviar una comunicación previa al titular al menos veinte días antes del reporte. Si la persona considera que un reporte es incorrecto, puede presentar un reclamo ante la entidad que reportó o ante la central de riesgo. Si no obtiene respuesta, puede acudir a la Superintendencia de Industria y Comercio o a la Superintendencia Financiera, según el caso, o presentar una acción de tutela.

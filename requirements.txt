@@ -1,0 +1,12 @@
+# Python 3.10 - 3.12 recomendado (spaCy y torch pueden no tener ruedas para versiones mas nuevas)
+torch>=2.2
+transformers>=4.46
+accelerate>=0.26
+sentence-transformers>=3.0
+haystack-ai>=2.10
+sentence-transformers-haystack>=0.1
+spacy>=3.7,<4
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
